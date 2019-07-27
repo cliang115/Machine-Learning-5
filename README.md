@@ -1,4 +1,4 @@
 # Machine-Learning-5
 ### Coursera Machine Learning
-In this exercise, you will implement regularized linear regression and use it to
+Implemented regularized linear regression and used it to
 study models with different bias-variance properties.
